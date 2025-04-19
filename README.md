@@ -33,7 +33,7 @@ Este repositório contém uma série de scripts Python desenvolvidos para automa
 git clone https://github.com/seu-usuario/RPA--Automation-Challenge.git
 cd RPA--Automation-Challenge-main
 
-**🧠 Explicação Técnica
+## 🧠 Explicação Técnica
 Selenium: usado para abrir o navegador, acessar a URL e capturar os dados da tabela HTML.
 
 Pandas: utilizado para estruturar os dados em DataFrames.
@@ -42,10 +42,9 @@ XlsxWriter: exporta os DataFrames diretamente para arquivos .xlsx.
 
 Cada linha da tabela é capturada com find_elements(By.TAG_NAME, "tr"), e os dados são coletados via .text.
 
-💡 Observações
+## 💡 Observações
 O ChromeDriver precisa estar no PATH ou na mesma pasta dos scripts para funcionar corretamente.
 
-Para casos onde os dados da tabela são exibidos por abas ou páginas, o script 3.Extraindo Dados de Todas as Abas.py trata da navegação entre elas.**
-
+Para casos onde os dados da tabela são exibidos por abas ou páginas, o script 3.Extraindo Dados de Todas as Abas.py trata da navegação entre elas.
 
 
