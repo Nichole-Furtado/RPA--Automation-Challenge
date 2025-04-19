@@ -29,7 +29,7 @@ Este repositório contém uma série de scripts Python desenvolvidos para automa
 
 1. Clone o repositório e acesse a pasta:
 
-```bash
+
 git clone https://github.com/seu-usuario/RPA--Automation-Challenge.git
 cd RPA--Automation-Challenge-main
 
@@ -47,5 +47,5 @@ O ChromeDriver precisa estar no PATH ou na mesma pasta dos scripts para funciona
 
 Para casos onde os dados da tabela são exibidos por abas ou páginas, o script 3.Extraindo Dados de Todas as Abas.py trata da navegação entre elas.**
 
-![image](https://github.com/user-attachments/assets/757a7cf5-f5c8-466e-a6e5-cd9a4888f88b)
+
 
